@@ -5756,7 +5756,6 @@ let data = encodeURIComponent(
 **接口地址 :** `/device/kickoff`
 
 **调用例子 :** `/device/kickoff?key=00ALDFGEXXXXXXXXXXXXXXXXX&captcha=1234`
->>>>>>>>> Temporary merge branch 2
 
 ## 离线访问此文档
 
